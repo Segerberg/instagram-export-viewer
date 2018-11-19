@@ -8,3 +8,4 @@ Yes, this repo is mostly here on popular request an SHOULD be seen for what it i
 Place the index.html file in the root directory of your instagram export and open it in a web browser. For standalone use, please use firefox, IE and Chrome need the json files to be served by a webserver. 
 
 ## Example
+<img align="left" src="https://raw.githubusercontent.com/Segerberg/instagram-export-viewer/master/instaviewer.jpg" width="40%" height="40%"/>
