@@ -1,5 +1,5 @@
 # instagram-export-viewer
-Instagram’s “Data Download” ets users export their photos, videos, archived Stories, profile, info, comments, and non-ephemeral messages as  bunch of json files. However, Instgram does not provide an index.html for simple viewing of the export. 
+Instagram’s “Data Download” lets users export their photos, videos, archived Stories, profile, info, comments, and non-ephemeral messages as  bunch of json files. However, Instgram does not provide an index.html for simple viewing of the export. 
 
 ## PROTOTYPE
 Yes, this repo is mostly here on popular request an SHOULD be seen for what it is, a quick sketch. 
